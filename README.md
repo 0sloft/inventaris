@@ -6,9 +6,12 @@ Dokumen ini akan memberikan panduan lengkap mengenai penggunaan aplikasi inventa
 
 ## Roadmap
 
-- [Tambah Barang](https://github.com/septian-padli)
-- [Mengedit Barang](https://github.com/FarizFerdiano)
-- [Pengajuan Barang](https://github.com/ShafwanaMusyaffa)
+| Topic                                                 | Description                                                  |
+| ----------------------------------------------------- | ------------------------------------------------------------ |
+| [Barang](./01-team)                                     | Dokumen yang berkaitan dengan barang                          |
+| [Pengajuan](./02-onboarding)                         | Dokumen yang berkaitan dengan pengajuan                |
+| [Status](./03-development-process)       | Dokumen yang berkaitan dengan status            |
+
 
 ## Authors
 
